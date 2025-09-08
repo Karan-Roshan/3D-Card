@@ -4,14 +4,14 @@ The card features smooth hover animations, floating social icons, layered circle
 
 # Preview
 <p align="center">
-  <img src="Profile-Card/Photos/Profile Card Image.png" 
-       alt="Profile Card" 
+  <img src="https://github.com/Karan-Roshan/3D-Card/blob/e967b5c6cedc9f3590123ffde050c8a085ba9c1f/Image%20%26%20Videos/3D%20Card%20Image.png" 
+       alt="3D Profile Card" 
        width="300">
 </p>
 
 <p align="center">
   <video width="300" autoplay loop muted>
-    <source src="Profile-Card/Photos/Profile-Card-Preview.mp4" type="video/mp4">
+    <source src="https://github.com/Karan-Roshan/3D-Card/blob/e967b5c6cedc9f3590123ffde050c8a085ba9c1f/Image%20%26%20Videos/3D%20Card%20Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
