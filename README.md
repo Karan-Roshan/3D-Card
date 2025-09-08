@@ -8,8 +8,12 @@ The card features smooth hover animations, floating social icons, layered circle
        alt="3D Profile Card" 
        width="300">
 </p>
+
+
+# Image & Videos
 - Image: <a href="https://github.com/Karan-Roshan/3D-Card/blob/e967b5c6cedc9f3590123ffde050c8a085ba9c1f/Image%20%26%20Videos/3D%20Card%20Image.png"> 3D Card Image</a>
-- Video: https://github.com/Karan-Roshan/3D-Card/blob/e967b5c6cedc9f3590123ffde050c8a085ba9c1f/Image%20%26%20Videos/3D%20Card%20Video.mp4
+- Video: <a href="https://github.com/Karan-Roshan/3D-Card/blob/e967b5c6cedc9f3590123ffde050c8a085ba9c1f/Image%20%26%20Videos/3D%20Card%20Video.mp4"> 3D Card Video</a>
+
 
 # Features
 - Pure **HTML + CSS** (no JavaScript needed)
